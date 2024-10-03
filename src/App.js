@@ -204,3 +204,6 @@ function Whiteboard() {
 }
 
 export default Whiteboard;
+
+// npm start : window
+// npm run start : mac
